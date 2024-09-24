@@ -51,7 +51,9 @@ If you want others to access the API over the internet, you can use ngrok to exp
 1. **Install ngrok**:
    If you haven’t installed ngrok yet, download it from Ngrok download page and set it up:
 
-   In terminal extract using:
+
+
+   Then in terminal extract using:
 
    ```bash
    sudo tar -xvzf ~/Downloads/https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin
